@@ -44,7 +44,8 @@ npm install
 
 **Create your private config file from the template:**
 ```bash
-cp .env.example .env
+cp .env.example .envcp .env.example .env
+
 ```
 
 **Edit `.env`** (in VS Code: `code .env`) and set:
